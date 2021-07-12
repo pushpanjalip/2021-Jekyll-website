@@ -3,6 +3,7 @@ layout: dark
 title: About
 example: Example text is a variable.
 ---
+
 This page describes {{ site.title }} by {{ site.author.name }}.
 
 {{ page.example }}
